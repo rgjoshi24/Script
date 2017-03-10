@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ADMIN="rgjoshi24@gmail.com"
-THRESHOLD=0
+THRESHOLD=75
 
 function disk_usage() {
 while read output;
