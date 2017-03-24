@@ -1,5 +1,5 @@
 #/bin/sh
-
+#added url to my Jenkins Lab Server
 HUDSON_MASTER=http://rgjosih24-gmail-com4.mylabserver.com:8080
 source $HOME/.bash_profile
 
