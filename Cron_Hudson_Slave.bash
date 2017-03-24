@@ -1,6 +1,6 @@
 #/bin/sh
 
-HUDSON_MASTER=http://jenkinserverurl:8080/hudson
+HUDSON_MASTER=http://rgjosih24-gmail-com4.mylabserver.com:8080
 source $HOME/.bash_profile
 
 start(){
