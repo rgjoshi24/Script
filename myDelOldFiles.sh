@@ -3,6 +3,7 @@
 Folder=$1
 NDays=$2
 
+#Check for the parameters
 if [ "$Folder" == "" ] || [ "$NDays" == "" ]
 then
         echo "Either one of the parameter is blank"
