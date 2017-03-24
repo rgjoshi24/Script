@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ADMIN="rgjoshi24@gmail.com"
+#Threshold is set to 75% of disk usage
 THRESHOLD=75
 
 function disk_usage() {
